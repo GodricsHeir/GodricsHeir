@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Shourya, a.k.a., GODRICK — a budding Data Science and Computer Science student
-<img align="right" alt="Coding" width="400" src="https://mrwallpaper.com/wallpapers/faint-circuit-board-diagram-ehm2lld7apfsph45.html">
+[![MasterHead](https://mrwallpaper.com/wallpapers/faint-circuit-board-diagram-ehm2lld7apfsph45.html)](https://github.com/GodricsHeir)
 - 🔭 I’m currently working on practical and innovative code puzzles
 - 🌱 I’m currently learning PYTHON, JAVA & C
 - 🤔 I’m looking for help with the know-how of the coding world
