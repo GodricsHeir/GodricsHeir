@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Shourya, a budding Data Science and Computer Science student
 
 - 🔭 I’m currently working on practical and innovative code puzzles
 - 🌱 I’m currently learning PYTHON, JAVA & C
