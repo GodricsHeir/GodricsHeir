@@ -1,3 +1,4 @@
+[![MasterHead](header.jpg)](https://github.com/GodricsHeir)
 [![MasterHead](header.png)](https://github.com/GodricsHeir)
 ## Hi there 👋 I'm Shourya, a.k.a., GODRICK — a budding Data Science and Computer Science student
 
