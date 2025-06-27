@@ -7,3 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The initial modern Formula 1 ground effect reguations were pretty good before TD39
 ![Godrick's Github STATS:](https://github-readme-stats.vercel.app/api?username=Godrick&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Godrick&show_icons=true)
