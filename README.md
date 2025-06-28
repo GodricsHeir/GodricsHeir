@@ -9,6 +9,28 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=GodricsHeir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GodricsHeir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://ubuntu.com" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai" alt="Adobe Premeire Pro" /></a>
+</p>
+
+---
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GodricsHeir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
