@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://isoc.org" target="_blank"><img src="https://skillicons.dev/icons?i=adobe" /></a>
+  <a href="https://isoc.org" target="_blank"><img src="https://skillicons.dev/icons?i=adobe" alt="adobe" /></a>
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
