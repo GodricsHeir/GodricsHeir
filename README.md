@@ -20,7 +20,6 @@
   <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=au" /></a>
   <<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ps" /></a>
-  <<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=" /></a>
   <<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
   <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
