@@ -12,7 +12,7 @@
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="c" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
   <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
