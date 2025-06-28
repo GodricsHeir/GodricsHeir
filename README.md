@@ -18,10 +18,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=au" /></a>
+  <<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ps" /></a>
   <<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=" /></a>
+  <<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
   <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
-  <a href="https://ubuntu.com" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
 </p>
 
 ---
