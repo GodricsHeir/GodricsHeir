@@ -12,15 +12,14 @@
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://www.c-language.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <a href="https://www.adobe.com/in/products/audition.html" target="_blank"><img src="https://skillicons.dev/icons?i=au" /></a>
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ps" /></a>
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" /></a>
   <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
 </p>
